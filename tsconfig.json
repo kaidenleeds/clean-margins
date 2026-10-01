@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "lib": ["ES2023", "WebWorker"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "noEmit": true,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "target": "ES2022",
+    "types": ["@cloudflare/workers-types", "node"]
+  },
+  "include": ["src/**/*.js", "scripts/**/*.mjs", "tests/**/*.mjs"]
+}
+

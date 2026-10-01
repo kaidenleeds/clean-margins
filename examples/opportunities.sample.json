@@ -1,0 +1,45 @@
+{
+  "generated": "2030-01-01",
+  "count": 3,
+  "items": [
+    {
+      "notice_id": "SAMPLE-001",
+      "title": "Janitorial services for a federal office",
+      "agency": "GENERAL SERVICES ADMINISTRATION",
+      "state": "CO",
+      "city": "Denver",
+      "naics": "561720",
+      "type": "Solicitation",
+      "posted": "2030-01-01",
+      "deadline": "2030-01-15T17:00:00-07:00",
+      "set_aside": "Total Small Business Set-Aside",
+      "url": "https://sam.gov/"
+    },
+    {
+      "notice_id": "SAMPLE-002",
+      "title": "Exterior window washing",
+      "agency": "DEPARTMENT OF THE INTERIOR",
+      "state": "UT",
+      "city": "Salt Lake City",
+      "naics": "561790",
+      "type": "Combined Synopsis/Solicitation",
+      "posted": "2030-01-02",
+      "deadline": "2030-01-20T16:00:00-07:00",
+      "set_aside": "",
+      "url": "https://sam.gov/"
+    },
+    {
+      "notice_id": "SAMPLE-003",
+      "title": "Custodial services for a public facility",
+      "agency": "DEPARTMENT OF AGRICULTURE",
+      "state": "TX",
+      "city": "Austin",
+      "naics": "561720",
+      "type": "Presolicitation",
+      "posted": "2030-01-03",
+      "deadline": "2030-01-28T14:00:00-06:00",
+      "set_aside": "Service-Disabled Veteran-Owned Small Business",
+      "url": "https://sam.gov/"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "clean-margins",
+  "main": "dist/worker.js",
+  "compatibility_date": "2026-10-01",
+  "kv_namespaces": [
+    {
+      "binding": "DATA",
+      "id": "00000000000000000000000000000000",
+      "preview_id": "00000000000000000000000000000000"
+    }
+  ],
+  "vars": {
+    "PUBLIC_ORIGIN": "https://example.com",
+    "BEEHIIV_PUBLICATION_ID": "",
+    "PRODUCT_BUNDLE_URL": "",
+    "PRODUCT_BID_CALCULATOR_URL": "",
+    "PRODUCT_BUSINESS_OS_URL": "",
+    "PRODUCT_PRESSURE_WASHING_URL": ""
+  },
+  "triggers": {
+    "crons": ["0 11 * * *"]
+  }
+}
